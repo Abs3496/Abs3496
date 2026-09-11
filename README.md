@@ -1,4 +1,5 @@
-Hi, I’m Abhishek Pandey, a B.Tech Computer Science student and Full Stack Java Developer passionate about building practical web applications and solving real-world problems. Currently focused on Java, Spring Boot, React.js, SQL, DSA, and System Design. I enjoy learning new technologies and continuously improving my development skills. Email: officialabhishek375@gmail.com | LinkedIn: www.linkedin.com/in/abhishekpandey375
+Hi, I’m Abhishek Pandey, a B.Tech Computer Science student and Full Stack Java Developer passionate about building practical web applications and solving real-world problems. Currently focused on Java, Spring Boot, React.js, SQL, DSA, and System Design. I enjoy learning new technologies and continuously improving my development skills. 
+Email: officialabhishek375@gmail.com | LinkedIn: www.linkedin.com/in/abhishekpandey375
 
 
 ## 🌐 Socials:
